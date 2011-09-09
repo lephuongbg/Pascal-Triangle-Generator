@@ -1,0 +1,6 @@
+PASCAL TRIANGLE GENERATOR
+
+A small program to create a pascal triangle with custom height.
+
+Build: gcc -Wall pascal_triangle_main.c -o pascal_triangle
+Run: ./pascal_triangle
